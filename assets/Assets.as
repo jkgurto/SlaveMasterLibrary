@@ -1,16 +1,16 @@
-package
+package assets
 {
     
     public class Assets {
         
         [Embed(source="./Boat01.svg")]
-        public static const boatClass:Class;
+        public var boatClass:Class;
         
         [Embed(source="./Slave01.svg")]
-        public static const slaveClass:Class;
+        public var slaveClass:Class;
         
         [Embed(source="./SlaveMaster01.svg")]
-        public static const slaveMasterClass:Class;
+        public var slaveMasterClass:Class;
         
     }
     
