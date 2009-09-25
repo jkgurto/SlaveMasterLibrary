@@ -12,6 +12,9 @@ package assets
         [Embed(source="./SlaveMaster01.svg")]
         public var slaveMasterClass:Class;
         
+        [Embed(source="./Tree01.svg")]
+        public var treeClass:Class;
+        
     }
     
 }
