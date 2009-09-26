@@ -25,6 +25,9 @@ package assets
         [Embed(source="./Slave01.svg")]
         public var slaveClass:Class;
         
+        [Embed(source="./Slave02.svg")]
+        public var slaveRowingClass:Class;
+        
         [Embed(source="./SlaveMaster01.svg")]
         public var slaveMasterClass:Class;
         
