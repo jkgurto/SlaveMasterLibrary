@@ -62,19 +62,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#088f89;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3778"
-       width="802.85712"
-       height="407.14282"
-       x="3.330603e-08"
-       y="191.42856"
-       ry="0" />
-    <rect
        style="opacity:1;fill:#86f3f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3267"
        width="802.85712"
-       height="224.28572"
+       height="598.57141"
        x="-1.4285715"
-       y="-3.1658158e-07" />
+       y="-3.1658161e-07" />
   </g>
 </svg>
