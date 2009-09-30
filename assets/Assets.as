@@ -1,20 +1,1 @@
-package assets
-{
-    
-    public class Assets {
-        
-        // -- Sprites        
-        [Embed(source="./Cloud01.svg")]
-        public var cloudClass:Class;
-        
-        [Embed(source="./Crocodile01.svg")]
-        public var crocodileClass:Class;
-        
-        [Embed(source="./Gull01.svg")]
-        public var gullClass:Class;
-        
-        [Embed(source="./Wave01.svg")]
-        public var waveClass:Class;
-    }
-    
-}
+﻿package assets{        public class Assets {                [Embed(source="./slaveship.swf", symbol="Boat")]        public var boatClass:Class;		        [Embed(source="./Cloud01.svg")]        public var cloudClass:Class;                [Embed(source="./Crocodile01.svg")]        public var crocodileClass:Class;		        [Embed(source="./slaveship.swf", symbol="Drummer")]        public var drumClass:Class;                [Embed(source="./Gull01.svg")]        public var gullClass:Class;				[Embed(source="./slaveship.swf", symbol="Hands")]        public var handsClass:Class;				[Embed(source="./slaveship.swf", symbol="Slave")]        public var slaveClass:Class;				[Embed(source="./slaveship.swf", symbol="Sky")]        public var skyClass:Class;				[Embed(source="./slaveship.swf", symbol="Sun")]        public var sunClass:Class;		    }    }
