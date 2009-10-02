@@ -35,6 +35,15 @@ package assets
         [Embed(source="./slaveship.swf", symbol="assets.IntroSoundClass")]
         public static var introSoundClass:Class;
         
+        [Embed(source="./slaveship.swf", symbol="assets.Drum1SoundClass")]
+        public static var drum1SoundClass:Class;
+        
+        [Embed(source="./slaveship.swf", symbol="assets.Drum2SoundClass")]
+        public static var drum2SoundClass:Class;
+        
+        [Embed(source="./slaveship.swf", symbol="assets.Drum3SoundClass")]
+        public static var drum3SoundClass:Class;
+        
     }
     
 }
